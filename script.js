@@ -23,7 +23,7 @@ const loop = setInterval(()=>{
         batman.style.animation = 'none';
         batman.style.bottom=`${batmanPosition}px`;
 
-        batman.src = './images/sangue.png';
+        batman.src = 'sangue.png';
         batman.style.width='120px';
         batman.style.marginLeft='30px';
 
